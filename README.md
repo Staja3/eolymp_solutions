@@ -1,4 +1,4 @@
-# e-olymp Solutions
+# Eolymp Solutions
 
 This repository contains my solutions to problems from **[eolymp](https://eolymp.com/)**.
 
